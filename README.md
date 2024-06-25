@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **OOP with C#**
 
 - 🧑‍🎓 Software analysis and development **student**
 
